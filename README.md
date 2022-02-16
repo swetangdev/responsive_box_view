@@ -7,7 +7,7 @@
 ### This structure can be used for listing contents like
 	-: Wordpress ACF Repeated content blocks (contains subfields)
 	-: Also used to list Posts/ Custom Posts
-  -: and many more
+  	-: and many more
 
 ### Installation
 Unzip folder in Local directory of web server (e.g. xampp)
@@ -24,7 +24,9 @@ After Setup please open url to view the output : http://localhost/univers/
 
 -------
 
+### Screenshots zip : <a href="https://github.com/swetangdev/univers/blob/main/box-view-screenshots.zip">Screenshots</a>
 ### Video to demostrate: https://www.screencast.com/t/uyDefxUP
+
 -------
 
 ### Some important files:
